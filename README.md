@@ -16,7 +16,7 @@ Necessary Libraries:
 
 ### Data
 
-The dataset was downloaded using the Education Data Analysis Tool from the National Center for Education Statistics.  It is based on the National Household Education Survey (NHES) from 2007.
+The dataset was downloaded using the Education Data Analysis Tool from the National Center for Education Statistics.  It is based on the National Household Education Survey (NHES) from 2007. (Data file not included in github repo.)
 
 ### Citation
 
