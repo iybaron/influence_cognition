@@ -1,0 +1,11 @@
+*.html
+*.csv
+/data
+report.*
+/unused_files
+*.zip
+clean_and_explore.ipynb
+initial_cleaning.ipynb
+/.ipynb_checkpoints
+nursery_exploration.ipynb
+
